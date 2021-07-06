@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Ian Havenaar @ithave313
-- 👀 I’m interested in Data Science, Machine Learning, and Databases
-- 🌱 I’m currently learning Operating Systems, Computer Architecture, and Databases
+- Hi, I’m Ian Havenaar @ithave313
+- I am a Junior in Computer Science at the University of Notre Dame
+- I conduct research in Data Science and Machine Learning for the Center for Reserach Computing 
+- I am interested in Databases
+- I am currently learning Operating Systems, Computer Architecture, and Databases
 
 <!---
 ithave313/ithave313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
