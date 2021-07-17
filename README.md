@@ -1,6 +1,6 @@
 - Hi, I’m Ian Havenaar @ithave313
 - I am a Junior in Computer Science at the University of Notre Dame
-- I conduct research in Data Science and Machine Learning for the Center for Reserach Computing 
+- I conduct research in Natural Language Processing and Machine Learning for the Center for Reserach Computing 
 - I am currently learning Operating Systems, Computer Architecture, and Databases
 
 <!---
